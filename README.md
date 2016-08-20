@@ -17,3 +17,7 @@ This library provides components for integration with any
 dependency-injection container, in the form of resolvers (middleware) that resolves
 either [type-hints](src/resolvers/ContainerTypeResolver.php) or
 [parameter-names](src/resolvers/ContainerNameResolver.php) against IDs in a container.
+
+### Usage
+
+Pretty simple, but best explained [by example](test/example.php).
