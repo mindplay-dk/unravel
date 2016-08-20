@@ -2,6 +2,7 @@ filter:
     paths: [src/*]
 
 tools:
+    code_rating: true
     external_code_coverage: true
     php_mess_detector: true
     php_code_sniffer: true
